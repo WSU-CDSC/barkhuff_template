@@ -5,27 +5,27 @@
 # Site settings
 
 # title of site appears in banner
-title: GH-Pages Collection
+title: Barkhuff Testing Template
 # tagline appears in banner
-tagline: a theme for building simple digital exhibits
+tagline: Testing the sweet Jeckyll pages from UI
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A more complete description that will appear in meta tags and on the index page as a teaser."
 # keywords appear in meta tags
-keywords: "university of idaho, digital collections, digital humanities"
+keywords: "Washington State University, digital collections, digital humanities"
 # creator of the digital collection, to appear in meta tags
-author: evanwill
+author: alexmerrill
 # creator contact email for meta tags
-email: ewilliamson@uidaho.edu
+email: alex.merrill@wsu.edu
 # collection project date, when did you publish this
 collection-date: "2018"
 
 # url is your gh-pages base, username.github.io
-url: https://uidaholib.github.io
+url: https://wsu-cdsc.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /pages-collection-template
+baseurl: /barkhuff_template
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/pages-collection-template
+repository: https://github.com/WSU-CDSC/barkhuff_template
 
 # google services [optional!]
 # leave these blank or comment out to NOT include google code
